@@ -1,30 +1,17 @@
-# calculator
+# myCalculator
 
-> A Vue.js project
+> 使用vue2.0实现简易的计算器
 
-## Build Setup
+## 启动
 
-``` bash
-# install dependencies
-npm install
+> npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+> npm run dev
 
-# build for production with minification
-npm run build
+## 简介
 
-# build for production and view the bundle analyzer report
-npm run build --report
+> 使用vue-cli脚手架搭建
 
-# run unit tests
-npm run unit
+> 主要的组件 src/components/Calculator.vue
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> 可重新配置webpack，只安装配置需要的module，去除没必要的modules
