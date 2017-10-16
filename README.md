@@ -14,4 +14,4 @@
 
 > 主要组件 src/components/Calculator.vue
 
-> 可重新配置webpack，只安装配置需要的module，去除没必要的modules
+> 可重新配置webpack，只安装配置需要的modules，去除没必要的modules
